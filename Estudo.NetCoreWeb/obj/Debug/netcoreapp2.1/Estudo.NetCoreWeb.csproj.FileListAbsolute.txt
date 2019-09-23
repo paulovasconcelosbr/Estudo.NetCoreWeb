@@ -1,0 +1,14 @@
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Estudo.NetCoreWeb.deps.json
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Estudo.NetCoreWeb.runtimeconfig.json
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Estudo.NetCoreWeb.runtimeconfig.dev.json
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Estudo.NetCoreWeb.dll
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Estudo.NetCoreWeb.pdb
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.csprojAssemblyReference.cache
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.csproj.CoreCompileInputs.cache
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.RazorAssemblyInfo.cache
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.RazorAssemblyInfo.cs
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.AssemblyInfoInputs.cache
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.AssemblyInfo.cs
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.RazorTargetAssemblyInfo.cache
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.dll
+C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.pdb
