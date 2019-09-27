@@ -12,3 +12,17 @@ C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\
 C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.RazorTargetAssemblyInfo.cache
 C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.dll
 C:\Users\paulo.vasconcelos\source\repos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.pdb
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Estudo.NetCoreWeb.deps.json
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Estudo.NetCoreWeb.runtimeconfig.json
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Estudo.NetCoreWeb.runtimeconfig.dev.json
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Estudo.NetCoreWeb.dll
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Estudo.NetCoreWeb.pdb
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.csprojAssemblyReference.cache
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.RazorAssemblyInfo.cache
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.RazorAssemblyInfo.cs
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.AssemblyInfoInputs.cache
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.AssemblyInfo.cs
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.RazorTargetAssemblyInfo.cache
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.dll
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\obj\Debug\netcoreapp2.1\Estudo.NetCoreWeb.pdb
+D:\Desenvolvimento\c#\Estudos\Estudo.NetCoreWeb\Estudo.NetCoreWeb\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
